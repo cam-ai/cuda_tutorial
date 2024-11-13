@@ -1,0 +1,1 @@
+nvcc -arch=sm_70 -o thread_block block_thread.cu -run
